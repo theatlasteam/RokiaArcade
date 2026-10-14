@@ -1,0 +1,8 @@
+MIDlet-Name: RokiaArcade
+MIDlet-Version: 0.1.0
+MIDlet-Vendor: Atlas
+MIDlet-1: RokiaArcade,/icon.png,arcade.Arcade
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-URL: RokiaArcade.jar
+MIDlet-Jar-Size: 137696
